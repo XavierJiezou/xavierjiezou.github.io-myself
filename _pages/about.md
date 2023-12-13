@@ -26,6 +26,36 @@ My research interest includes human-computer interactive learning, computer game
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 🎖 Honors and Awards
+- _2023.05:_ First Prize, Wu Wenjun Artificial Intelligence Natural Science Award (Sequence 1)
+- _2023.04:_ World Air Battle Competition Champion
+- _2023:_ CCF-AAAAI 2022 Outstanding Paper Award
+- _2018:_ World Intelligent City Technology Challenge Champion
+- _2018:_ Microsoft Million Celebrity International Face Recognition Technology Challenge Champion
+- _2018.02:_ "Top 10 Employees" title, Institute of Automation, Chinese Academy of Sciences
+- _2018.01:_ "Outstanding Employee" title, State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+- _2017:_ Microsoft Million Celebrity International Face Recognition Technology Challenge Champion
+- _2015.10:_ "Outstanding Communist Party Member" title, Institute of Automation, Chinese Academy of Sciences
+- _2015.01:_ "Outstanding Employee" title, State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+- _2013.11:_ Best Paper Award, ACM Multimedia 2013, International Multimedia Conference
+- _2012.06:_ Outstanding Ph.D. Graduate, Department of Computer Science and Technology, Tsinghua University
+- _2011.06:_ "Google Scholar" Award (USD 10,000 grant, awarded to only four individuals in China)
+- _2010.10:_ "Outstanding Moral Education Assistant" title, Tsinghua University
+- _2010.05:_ Outstanding Paper Award, Ph.D. Student Forum, Department of Computer Science and Technology, Tsinghua University
+- _2010.04:_ "Academic New Star" title (Top 1%), Department of Computer Science and Technology, Tsinghua University
+- _2009.12:_ "Tsinghua Friend - Jiang Zhen" Scholarship (Comprehensive First Class, Top 5%)
+- _2009.05:_ Outstanding Party Branch Secretary, Department of Computer Science and Technology, Tsinghua University
+- _2007.04:_ Outstanding Undergraduate Thesis Award, Xi'an Jiaotong University
+
+# 📖 Monographs and translations
+- Monographs: Monograph 1 describes some of the most important models in machine learning, machine learning, and is responsible for four chapters about the latest deep learning-related models; The second monograph is a popular science book on artificial intelligence edited by Academician Tan Tieniu. I am responsible for writing two chapters on computer vision and cognitive reasoning. 
+1. Xie Jianbin, Xing Junliang et al., Twenty Lectures on Visual Machine Learning, Tsinghua University Press, February 2015. 
+2. Tan Tieniu (Ed.), Artificial Intelligence: Building an Intelligent Future with AI Technology, Science and Technology Press of China, August 2019. 
+
+- Translation: The two translations are classic textbooks in the field of image processing and the latest monographs in the field of computer vision. 
+1. Xing Junliang, Image Processing, Analysis and Machine Vision (4th Edition), Tsinghua University Press, January 2016. 
+2. Ai Haizhou, Xing Junliang, Computer Vision: Algorithms and Applications, Tsinghua University Press, January 2012. 
+
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -213,36 +243,6 @@ Representative conference papers：
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-# 🎖 Honors and Awards
-- _2023.05:_ First Prize, Wu Wenjun Artificial Intelligence Natural Science Award (Sequence 1)
-- _2023.04:_ World Air Battle Competition Champion
-- _2023:_ CCF-AAAAI 2022 Outstanding Paper Award
-- _2018:_ World Intelligent City Technology Challenge Champion
-- _2018:_ Microsoft Million Celebrity International Face Recognition Technology Challenge Champion
-- _2018.02:_ "Top 10 Employees" title, Institute of Automation, Chinese Academy of Sciences
-- _2018.01:_ "Outstanding Employee" title, State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
-- _2017:_ Microsoft Million Celebrity International Face Recognition Technology Challenge Champion
-- _2015.10:_ "Outstanding Communist Party Member" title, Institute of Automation, Chinese Academy of Sciences
-- _2015.01:_ "Outstanding Employee" title, State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
-- _2013.11:_ Best Paper Award, ACM Multimedia 2013, International Multimedia Conference
-- _2012.06:_ Outstanding Ph.D. Graduate, Department of Computer Science and Technology, Tsinghua University
-- _2011.06:_ "Google Scholar" Award (USD 10,000 grant, awarded to only four individuals in China)
-- _2010.10:_ "Outstanding Moral Education Assistant" title, Tsinghua University
-- _2010.05:_ Outstanding Paper Award, Ph.D. Student Forum, Department of Computer Science and Technology, Tsinghua University
-- _2010.04:_ "Academic New Star" title (Top 1%), Department of Computer Science and Technology, Tsinghua University
-- _2009.12:_ "Tsinghua Friend - Jiang Zhen" Scholarship (Comprehensive First Class, Top 5%)
-- _2009.05:_ Outstanding Party Branch Secretary, Department of Computer Science and Technology, Tsinghua University
-- _2007.04:_ Outstanding Undergraduate Thesis Award, Xi'an Jiaotong University
-
-# 📖 Monographs and translations
-- Monographs: Monograph 1 describes some of the most important models in machine learning, machine learning, and is responsible for four chapters about the latest deep learning-related models; The second monograph is a popular science book on artificial intelligence edited by Academician Tan Tieniu. I am responsible for writing two chapters on computer vision and cognitive reasoning. 
-1. Xie Jianbin, Xing Junliang et al., Twenty Lectures on Visual Machine Learning, Tsinghua University Press, February 2015. 
-2. Tan Tieniu (Ed.), Artificial Intelligence: Building an Intelligent Future with AI Technology, Science and Technology Press of China, August 2019. 
-
-- Translation: The two translations are classic textbooks in the field of image processing and the latest monographs in the field of computer vision. 
-1. Xing Junliang, Image Processing, Analysis and Machine Vision (4th Edition), Tsinghua University Press, January 2016. 
-2. Ai Haizhou, Xing Junliang, Computer Vision: Algorithms and Applications, Tsinghua University Press, January 2012. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
