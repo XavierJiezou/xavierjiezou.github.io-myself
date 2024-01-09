@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junliang Xing (兴军亮)"
-description              : "Researcher of Tsinghua University. "
+title                    : "Xuechao Zou (邹学超)"
+description              : "Department of Computer Technology and Applications, Qinghai University. "
 repository               : "XavierJiezou/xavierjiezou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junliang Xing (兴军亮)"
-  avatar           : "images/avatar.png"
-  bio              : "Tsinghua University"
+  name             : "Xuechao Zou (邹学超)"
+  avatar           : "images/avatar.jpg"
+  bio              : "Qinghai University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=jSwNd3MAAAAJ"
-  email            : "jlxing@tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=po1KXtwAAAAJ"
+  email            : "xuechaozou@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "XavierJiezou" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
